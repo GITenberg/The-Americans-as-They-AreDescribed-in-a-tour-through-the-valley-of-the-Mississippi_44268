@@ -1,0 +1,37 @@
+_repo: The-Americans-as-They-AreDescribed-in-a-tour-through-the-valley-of-the-Mississippi_44268
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44268-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sealsfield, Charles
+    aliases:
+    - Postel, Karl
+    - Postl, Karl Anton
+    - Postl, Carl
+    - Seatsfield
+    - Sidons, C.
+    birthdate: 1793
+    deathdate: 1864
+    gutenberg_agent_id: '42662'
+    url: http://www.gutenberg.org/2009/agents/42662
+description: ''
+gutenberg_issued: '2013-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44268'
+  lccn: 01021484
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ohio River Valley -- Description and travel'
+- !lcsh 'Mississippi River Valley -- Description and travel'
+- !lcsh 'United States -- Social life and customs -- 1783-1865'
+- !lcc 'F350.5'
+title: 'The Americans as They Are
+
+  Described in a tour through the valley of the Mississippi'
+url: http://www.gutenberg.org/ebooks/44268
