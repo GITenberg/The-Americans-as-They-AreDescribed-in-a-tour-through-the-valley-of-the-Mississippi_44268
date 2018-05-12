@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '42662'
     url: http://www.gutenberg.org/2009/agents/42662
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44268#The-Americans-as-They-AreDescribed-in-a-tour-through-the-valley-of-the-Mississippi
 gutenberg_issued: '2013-11-24'
 gutenberg_type: Text
 identifiers:
